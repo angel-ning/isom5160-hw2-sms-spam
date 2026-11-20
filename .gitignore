@@ -1,0 +1,5 @@
+*.pdf
+Homework2_*_link.txt
+.streamlit/secrets.toml
+__pycache__/
+.DS_Store
